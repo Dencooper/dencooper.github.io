@@ -52,3 +52,27 @@ footer a {
 	text-decoration: none;
 	color: #c71eb0;
 }
+@media(max-width: 800px) {
+	#left_side {
+		flex: 100%;
+	}
+	#right_side {
+		flex: 100%;
+	}
+	#flex_container {
+		flex-wrap: wrap;
+	}
+}
+
+@media(max-width: 400px) {
+	#left_side {
+		flex: 100%;
+	}
+	#right_side {
+		flex: 100%;
+	}
+	#flex_container {
+		flex-wrap: wrap;
+	}
+	
+}
