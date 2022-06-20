@@ -52,6 +52,7 @@ footer a {
 	text-decoration: none;
 	color: #c71eb0;
 }
+
 @media(max-width: 800px) {
 	#left_side {
 		flex: 100%;
